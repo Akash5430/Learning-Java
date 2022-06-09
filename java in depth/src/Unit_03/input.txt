@@ -1,0 +1,13 @@
+Java
+is
+a 
+cool
+Language
+.
+Multi Processing-   Sequencial multi processing
+					Parallel multi processing
+					Comment multi processing
+					
+Multi Tasking-		Seq multi Tasking
+					Parallel multi Tasking
+					Comment multi Tasking
